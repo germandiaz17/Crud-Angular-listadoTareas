@@ -16,3 +16,6 @@ export class AppComponent implements OnInit{
     this.tareas = this.tareaService.tareas;
   }
 }
+
+
+
